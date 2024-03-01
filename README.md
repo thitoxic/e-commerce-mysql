@@ -21,11 +21,11 @@ Follow these steps to set up the application locally:
 ## API Documentation
 
 Authentication - 
-`/api/auth/register` - Registering users & adding admin permission.
-`api/auth/login` - Logging the user with jwt token 
+1. `/api/auth/register` - Registering users & adding admin permission.
+2. `api/auth/login` - Logging the user with jwt token 
 
 Products - 
-`api/products/list` - Listing the products with searching and sorting functionality
-`api/products/add` - Adding a new product(Admin only)
-`api/products/update/:productId` - Updating a product with id
-`api/products/delete/:productId` - Deleting a product with id
+1. `api/products/list` - Listing the products with searching and sorting functionality
+2. `api/products/add` - Adding a new product(Admin only)
+3. `api/products/update/:productId` - Updating a product with id
+4. `api/products/delete/:productId` - Deleting a product with id
