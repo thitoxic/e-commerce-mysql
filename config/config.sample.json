@@ -1,9 +1,9 @@
 {
     "development": {
-      "username": "root",
-      "password": "123456",
-      "database": "e-commerce",
-      "host": "127.0.0.1",
+      "username": "username",
+      "password": "password",
+      "database": "database",
+      "host": "host",
       "dialect": "mysql"
     }
 }
